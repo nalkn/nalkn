@@ -2,7 +2,7 @@
 Hi, I'm mostly a python developper. I'm interested in a little bit of everything, like robots, application design, or web scrapping.
 
 ## Programming Languages Skills :
-- PYTHON : Advanced
+- PY : Advanced
 - JS : Beginner
 - HTML : Beginner
 - CSS : Beginner
