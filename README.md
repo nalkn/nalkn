@@ -2,7 +2,7 @@
 Hi, I'm mostly a python developper. I'm interested in a little bit of everything, like robots, application design, or web scrapping.
 
 ## Test
-This is a test.
+This is a test
 
 ## Programming Languages Skills
 - Python : Advanced
